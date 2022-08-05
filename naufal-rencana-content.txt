@@ -1,0 +1,8 @@
+RENCANA KONTEN 
+
+- HTML
+- Javascript 
+  * E56
+  * Framework Javascript
+- Interview
+- Vlogs
