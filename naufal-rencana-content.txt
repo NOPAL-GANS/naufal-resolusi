@@ -5,7 +5,7 @@ RENCANA KONTEN
   * E56
   * Framework Javascript
     ^ vue
-    ^ React
+    ^react
 - struktur dasar data  
 - frame work php
    *laravel
