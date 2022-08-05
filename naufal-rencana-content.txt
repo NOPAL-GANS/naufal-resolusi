@@ -4,6 +4,11 @@ RENCANA KONTEN
 - Javascript 
   * E56
   * Framework Javascript
+    ^ vue
+    ^react
 - struktur dasar data  
+- frame work php
+   *laravel
 - Interview
 - Vlogs
+- python
