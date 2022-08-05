@@ -1,6 +1,8 @@
 RENCANA KONTEN 
 
 - HTML
-- CSS
+- Javascript 
+  * E56
+  * Framework Javascript
 - Interview
 - Vlogs
