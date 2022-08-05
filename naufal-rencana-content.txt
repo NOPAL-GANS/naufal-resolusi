@@ -4,5 +4,6 @@ RENCANA KONTEN
 - Javascript 
   * E56
   * Framework Javascript
+- struktur dasar data  
 - Interview
 - Vlogs
